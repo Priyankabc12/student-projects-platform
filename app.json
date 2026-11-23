@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Campus Projects",
+    "slug": "campus-projects",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F7F3EA"
+    }
+  }
+}
