@@ -5,8 +5,24 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
-    "splash": {
-      "backgroundColor": "#F7F3EA"
-    }
+    "android": {
+      "package": "com.campusprojects.studenthub",
+      "adaptiveIcon": {
+        "backgroundColor": "#F7F3EA"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8e276f97-9f41-4538-bfd5-434467303a11"
+      }
+    },
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#F7F3EA"
+        }
+      ]
+    ]
   }
 }
